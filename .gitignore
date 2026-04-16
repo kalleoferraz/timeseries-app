@@ -1,5 +1,6 @@
 #IDE
 .DS_Store
+.conda
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
